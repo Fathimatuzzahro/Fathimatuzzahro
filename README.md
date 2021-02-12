@@ -5,7 +5,7 @@ My Name is Fathimatuzzahro, just call me Izah.
 - 🌱 I’m currently learning HTML, CSS, JS, Java, and PHP
 - 💬 Ask me about anything
 - 📫 How to reach me: contact me by email on zahro010323@gmail.com
-- ⚡ Fun fact: I'm an manga reader and anime lover girl
+- ⚡ Fun fact: I'm a manga reader and anime lover girl
 
 Help me to improve my knowledge about web programming. Arigatou! 
 
